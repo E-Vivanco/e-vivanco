@@ -1,5 +1,9 @@
 ### Welcome!! 👋
-![banner_03](https://github.com/E-Vivanco/e-vivanco/assets/111080652/b3254b53-ca48-4ae4-a4a0-81e11c3f7947)
+
+<p align="center">
+  <img src="https://github.com/E-Vivanco/e-vivanco/assets/111080652/9e295b02-f270-45ab-be16-ad5533f1492f" width="100%" title="Intro" alt="Intro-Card">
+</p>
+
 <!--
 **E-Vivanco/e-vivanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
