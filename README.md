@@ -1,21 +1,17 @@
-### Hola!! 👋
-![banner_02](https://github.com/E-Vivanco/e-vivanco/assets/111080652/46053686-08bc-4300-bc87-10913c1ff6c9)
-
-
+### Welcome!! 👋
+![banner_03](https://github.com/E-Vivanco/e-vivanco/assets/111080652/b3254b53-ca48-4ae4-a4a0-81e11c3f7947)
 <!--
 **E-Vivanco/e-vivanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Saludos, a ti, que visitas mi perfil de github,Soy Desarrolladora Full-Stack ,me motiva el aprender<br> y el practicar haciendo.
+Soy Desarrolladora Full-Stack ,me motiva el aprender y el practicar haciendo.<br>
 Soy comprometida, me gusta trabajar en equipo
+### Fortalezas:
+- 🔭 Compromiso
+- 🌱 Investigación
+- 👯 Colaboración
+- 🌱 Perseverancia
 
-- 🔭 Uno ...
-- 🌱 Dos ...
-- 👯 Tres ...
-- 🤔 Cuatro ...
-- 💬 Cinco ...
-- 📫 Seis: ...
-- 😄 Siete: ...
-- ⚡ Ocho: ...
+### Conocimientos actuales:
 <div>
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -34,6 +30,17 @@ Soy comprometida, me gusta trabajar en equipo
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=e-vivanco&show_icons=true&hide_border=true&theme=dracula)
+### STATS:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=e-vivanco&show_icons=true&hide_border=true&theme=dracula)<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=e-vivanco&amp;layout=compact&amp;theme=dracula)
 
+### Aqui me puedes encontrar:
+<div>
+<a href="https://github.com/E-Vivanco">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+</a>
+<a href="https://www.linkedin.com/in/elsa-beltran-vivanco-6a004030">
+<img src="https://img.shields.io/badge/-Linkedin-black?style=flat&logo=linkedin&logoColor=white"> 
+</a>
+</div>
 
