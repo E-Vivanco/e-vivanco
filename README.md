@@ -3,7 +3,7 @@
 <!--
 **E-Vivanco/e-vivanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Soy Desarrolladora Full-Stack ,me motiva el aprender y el practicar haciendo.<br>
+Soy Desarrolladora Full-Stack ,me motiva aprender y poner en practica lo aprendido.<br>
 Comprometida, me gusta trabajar en equipo
 ### Fortalezas:
 - 🔭 Compromiso
