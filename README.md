@@ -4,7 +4,7 @@
 **E-Vivanco/e-vivanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Soy Desarrolladora Full-Stack ,me motiva el aprender y el practicar haciendo.<br>
-Soy comprometida, me gusta trabajar en equipo
+Comprometida, me gusta trabajar en equipo
 ### Fortalezas:
 - 🔭 Compromiso
 - 🌱 Investigación
@@ -26,6 +26,8 @@ Soy comprometida, me gusta trabajar en equipo
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white"> 
  <img src="https://img.shields.io/badge/-SQLAlchemy-black?style=flat&logo=sqlalchemy&logoColor=white"> 
+ <img src="https://img.shields.io/badge/-Scrum-3C873A?style=flat&logo=scrum&logoColor=white">
+ <img src="https://img.shields.io/badge/-RestApi-3C873A?style=flat&logo=restapi&logoColor=white">
 </div>
 
 ### STATS:
