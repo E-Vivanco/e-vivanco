@@ -1,7 +1,7 @@
 ### Welcome!! 👋
 
 <p align="center">
-  <img src="https://github.com/E-Vivanco/e-vivanco/assets/111080652/9e295b02-f270-45ab-be16-ad5533f1492f" width="100%" title="Intro" alt="Intro-Card">
+  <img src="https://github.com/E-Vivanco/e-vivanco/assets/111080652/9e295b02-f270-45ab-be16-ad5533f1492f" width="70%" title="Intro" alt="Intro-Card">
 </p>
 
 <!--
